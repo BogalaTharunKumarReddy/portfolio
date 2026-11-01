@@ -6,7 +6,7 @@ import type { Profile } from '@/types'
  */
 
 // TODO(edit): your deployed URL (also update index.html, public/robots.txt, public/sitemap.xml)
-export const SITE_URL = 'https://your-portfolio.vercel.app'
+export const SITE_URL = 'https://portfolio-lucky74723s-projects.vercel.app'
 
 export const profile: Profile = {
   name: 'Tharun Kumar Reddy',
