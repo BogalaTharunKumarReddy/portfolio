@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO(edit): replace with your deployed URL
+Sitemap: https://your-portfolio.vercel.app/sitemap.xml

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO(edit): replace the domain with your deployed URL. Add a <url> when you add a project or blog post. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://your-portfolio.vercel.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/projects/student-hostel-management-system</loc><priority>0.8</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/projects/campusconnect</loc><priority>0.8</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/projects/customer-churn-prediction-system</loc><priority>0.8</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/blog/respecting-reduced-motion-in-react</loc><priority>0.6</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/blog/tailwind-design-tokens</loc><priority>0.6</priority></url>
+  <url><loc>https://your-portfolio.vercel.app/blog/react-three-fiber-performance-checklist</loc><priority>0.6</priority></url>
+</urlset>
